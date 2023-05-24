@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{8800d4de-cb5f-4183-bb7a-b88171f1da83}</ProjectGuid>
-    <RootNamespace>Praktikum10</RootNamespace>
+    <ProjectGuid>{64c9bba0-8d1f-4d34-a7c1-50c04dcf5003}</ProjectGuid>
+    <RootNamespace>Asosiasi</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,11 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Praktikum10.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Asosiasi.h" />
-    <ClInclude Include="memberinitlist.cpp" />
+    <ClCompile Include="Asosiasi.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

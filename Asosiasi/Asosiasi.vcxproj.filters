@@ -15,16 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Praktikum10.cpp">
+    <ClCompile Include="Asosiasi.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Asosiasi.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="memberinitlist.cpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
